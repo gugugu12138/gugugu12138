@@ -1,6 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugugu12138)
+![Anurag's GitHub stats](https://github-readme-stats-bskxhj90j-gugugu12138.vercel.app/api?username=gugugu12138)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugugu12138)
+![Top Langs](https://github-readme-stats-bskxhj90j-gugugu12138.vercel.app/api/top-langs/?username=gugugu12138)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gugugu12138)
 
