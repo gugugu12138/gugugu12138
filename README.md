@@ -1,4 +1,4 @@
-## Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugugu12138)
 
 <!--
 **gugugu12138/gugugu12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
