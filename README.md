@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats-bskxhj90j-gugugu12138.vercel.app/api?username=gugugu12138&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-a57ulk9f3-gugugu12138.vercel.app/api?username=gugugu12138&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats-bskxhj90j-gugugu12138.vercel.app/api/top-langs/?username=gugugu12138&layout=compact&theme=radical)
 
